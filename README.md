@@ -1,2 +1,3 @@
-# snuff
-snff / snuff
+# snff / snuff
+
+My personal playground.
